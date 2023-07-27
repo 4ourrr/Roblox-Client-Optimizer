@@ -1,5 +1,7 @@
 {
   "FStringFlagUpdateVersion": "143",
+  "DFFlagTextureQualityOverrideEnabled": true,
+  "DFIntTextureQualityOverride": 1,
   "DFIntSecondsBetweenDynamicVariableReloading": 31557600,
   "FIntRolloutEnrollmentExpirationMinutes": 525949,
   "FFlagExecDynInitTests": false,
